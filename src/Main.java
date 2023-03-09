@@ -8,5 +8,6 @@ public class Main{
         workshop_week2 test = new workshop_week2();
         test.problem1(9);
         test.problem2();
+
     }
 }
