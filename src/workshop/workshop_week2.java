@@ -1,3 +1,5 @@
+package workshop;
+
 public class workshop_week2 {
     public void problem1(int n) {
         for(int i = 0; i < n; i++){
