@@ -6,5 +6,5 @@ class test {
     public void c(){
         int num = -1;
         System.out.println(Math.max(this.num, num));
-    }
+        }
     }
